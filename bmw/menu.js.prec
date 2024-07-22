@@ -113,6 +113,7 @@ module.exports.commande =()=>
 var tt=[]
 
  async  function execute(dest,zok,commandeOptions?)
+
   {
 
     var link = "https://wallpapercave.com/uwp/uwp3860299.jpeg"
