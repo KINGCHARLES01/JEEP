@@ -162,7 +162,6 @@ async (origineMessage, zk, commandeOptions) => {
 
 
 
-
 async function hentai() {	
   return new Promise((resolve, reject) => {	
       const page = Math.floor(Math.random() * 1153)	
