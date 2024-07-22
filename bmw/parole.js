@@ -3,7 +3,7 @@ const axios =require("axios");
 
 
 zokou({ nomCom: "lyrics",
-        reaction: "✨",
+        reaction: "☘",
         categorie: "Search" }, async (dest, zk, commandeOptions) => {
     
     const { repondre, arg, ms } = commandeOptions;  
@@ -18,7 +18,7 @@ zokou({ nomCom: "lyrics",
 
     if (lyrics.error) return repondre("no lyrics found");
 
-    let msg = `---------Bmw-lyrics-finder--------
+    let msg = `---------𝑩𝒖𝒈𝒂𝒕𝒕𝒊 𝒊𝒔 𝒇𝒊𝒏𝒅𝒊𝒏𝒈 𝒕𝒉𝒆 𝒍𝒚𝒓𝒊𝒄𝒔--------
 
 * *Artist :* ${lyrics.artist}
 
