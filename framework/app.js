@@ -6,3 +6,4 @@ async function reagir(dest, zok, msg, emoji) {
 }
 exports.reagir = reagir;
 
+
