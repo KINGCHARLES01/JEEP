@@ -13,7 +13,6 @@ let { fromBuffer } = require('file-type')
 let fs = require('fs')
 
 
-
 exports.sleep = async (ms) => {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
