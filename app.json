@@ -1,9 +1,9 @@
 {
-  "name":"BMW-MD",
-  "description":"Best whatsapp bot developed by Ibrahim adams",
+  "name":"BUGATTI",
+  "description":"Super Fast Bot",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
-  "repository":"https://github.com/ibraahadam/BMW-MD",
+  "repository":"https://github.com/betingrich/JEEP",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BMW-MD",
+      "value":"BUGATTI",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://telegra.ph/file/7ec4aa710486c41fa26d6.jpg",
+      "value":"https://telegra.ph/file/6dbc91c5be3e3b3c8d781.jpg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝐈𝐛𝐫𝐚𝐡𝐢𝐦 𝐀𝐝𝐚𝐦𝐬"
+    "value": "𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254739937062,254710772666"
+    "value": "254740007567"
   },
     "WARN_COUNT":
   {
