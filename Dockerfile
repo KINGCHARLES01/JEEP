@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/betingrich/JEEP.git  /root/Bugatti
-WORKDIR /root/bugatti/
+RUN git clone https://github.com/ibrahimaitech/BMW-MD.git  /root/BmwMD
+WORKDIR /root/bmwmd/
 
 
 COPY package.json .
@@ -21,4 +21,4 @@ COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "marisel.js"]
+CMD ["npm", "run" , "ibrahim.js"]
