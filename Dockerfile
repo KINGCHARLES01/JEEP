@@ -9,8 +9,8 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/betingrich/JEEP.git  /root/BmwMD
-WORKDIR /root/bmwmd/
+RUN git clone https://github.com/betingrich/JEEP.git  /root/Zokou_BOt
+WORKDIR /root/Zokou_BOt/
 
 
 COPY package.json .
