@@ -1,13 +1,13 @@
 {
   "name": "BUGATTI",
-  "version": "2.0.0",
+  "version": "KING",
   "description": "",
-  "main": "ibrahim.js",
+  "main": "marisel.js",
   "scripts": {
-    "test": "node ibrahim.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "s": "node ibrahim.js",
-    "bugatti": "pm2 start ibrahim.js --attach",
-    "bugatti": "pm2 start ibrahim.js --attach",
+    "zokou": "pm2 start marisel.js --attach",
+    "zokou": "pm2 start marisel.js --attach",
     "c": "tsc"
   },
   "keywords": [
