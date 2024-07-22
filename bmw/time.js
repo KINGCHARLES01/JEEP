@@ -34,7 +34,7 @@ async (dest, zk, commandeOptions) => {
 
 
 
-await repondre(`*_Pong▱▱▱▰▰▰▰_:*_${bmwspeed} MS_* `);
+await repondre(`*_Pong▱▱▱▰▰▰▰_:*_${bugattipeed} MS_* `);
 
 }
 );
@@ -71,7 +71,7 @@ await zk.sendMessage(dest, { video: { url: 'https://telegra.ph/file/4bbcfdf0a62d
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_Bmw md uptime_: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_Bugatti uptime_: ${runtime(process.uptime())}_*`) 
 
    
 
@@ -99,7 +99,7 @@ zokou({ nomCom: 'ss',
 let linkkk = `https://api.maher-zubair.tech/misc/sstab?url=${linkk}&dimension=720x720`;
 
 let res = await getBuffer(linkkk);
-   let caption = '*Powered by BMW-MD*' 
+   let caption = '*Powered by BUGATTI*' 
 
 await zk.sendMessage(dest, { image: res }, { caption: caption }, { quoted: ms });
 
