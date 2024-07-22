@@ -10,7 +10,7 @@ RUN apt-get update && \
   rm -rf /var/lib/apt/lists/*
   
 RUN git clone https://github.com/betingrich/JEEP.git  /root/Bugatti
-WORKDIR /root/Bugatti/
+WORKDIR /root/bugatti/
 
 
 COPY package.json .
