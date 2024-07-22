@@ -2,12 +2,12 @@
   "name": "BUGATTI",
   "version": "2.0.0",
   "description": "",
-  "main": "marisel.js",
+  "main": "ibrahim.js",
   "scripts": {
-    "test": "node marisel.js",
-    "s": "node marisel.js",
-    "bugatti": "pm2 start marisel.js --attach",
-    "bugatti": "pm2 start marisel.js --attach",
+    "test": "node ibrahim.js",
+    "s": "node ibrahim.js",
+    "bugatti": "pm2 start ibrahim.js --attach",
+    "bugatti": "pm2 start ibrahim.js --attach",
     "c": "tsc"
   },
   "keywords": [
