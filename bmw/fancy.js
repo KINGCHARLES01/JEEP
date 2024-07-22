@@ -1,5 +1,5 @@
 const { zokou } = require("../framework/zokou");
-const fancy = require("../bmw/style");
+const fancy = require("../bugatti/style");
 
 zokou({ nomCom: "fancy", categorie: "Fun", reaction: "〽️" }, async (dest, zk, commandeOptions) => {
     const { arg, repondre, prefixe } = commandeOptions;
@@ -8,7 +8,7 @@ zokou({ nomCom: "fancy", categorie: "Fun", reaction: "〽️" }, async (dest, zk
 
     try {
         if (id === undefined || text === undefined) {
-            return await repondre(`\nExemple : ${prefixe}fancy 10 Bmw-Md\n` + String.fromCharCode(8206).repeat(4001) + fancy.list('BMW-MD', fancy));
+            return await repondre(`\nExemple : ${prefixe}fancy 10 Bugatti\n` + String.fromCharCode(8206).repeat(4001) + fancy.list('BUGATTI', fancy));
         }
 
         const selectedStyle = fancy[parseInt(id) - 1];
