@@ -35,24 +35,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*Yes my G what's up* 😎
+*𝑯𝒊 𝑲𝒊𝒏𝒈 𝒉𝒆𝒓𝒆 * 
 
 
-*Any way just follow the following channels*
+*𝑮𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉 𝒃𝒆𝒍𝒍𝒐𝒘. 𝑴𝒚 𝒄𝒉𝒂𝒏𝒆𝒍*
 
 
-*Whatsapp channel*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+*𝑾𝒉𝒂𝒕𝒔𝒂𝒑𝒑*
+> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 
 *Youtube*
-> https://www.youtube.com/@ibrahimaitech
+> https://www.youtube.com/@wemacomic
 
 *For more info*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/betingrich-info
   `;
     
 let menuMsg = `
-> ©Ibrahim Adams 
+> ©𝑲𝒊𝒏𝒈 𝑴𝒂𝒓𝒊𝒔𝒆𝒍
 `;
 
    var lien = mybotpic();
@@ -121,24 +121,24 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BMW MD IMPORTANT INFO* 
+   *BUGATTI IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/ibrahimaitech/BMW-MD
+> https://github.com/betingrich/JEEP
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y
+> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/IBRAHIM-TECH-AI/IBRAHIM-ADAMS-INFO⁠
+> https://github.com/betingrich-info
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Ibrahim Adams*
+│❒⁠⁠⁠⁠ *DEV* : *King Marisel*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
 let menuMsg = `
-     𝑰𝑩𝑹𝑨𝑯𝑰𝑴 𝑨𝑫𝑨𝑴𝑺 𝑺𝑪𝑰𝑬𝑵𝑪𝑬
+     𝑲𝑰𝑵𝑮 𝑴𝑨𝑹𝑰𝑺𝑬𝑳𓃵
 
 ❒────────────────────❒`;
 
@@ -146,7 +146,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Kingmarisel*, déveloper King Marisel" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -156,7 +156,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Kingmarisel*, déveloper King Marisel" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
