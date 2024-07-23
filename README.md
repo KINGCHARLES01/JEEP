@@ -49,7 +49,6 @@
 
 </p>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 - <a href="https://render.com"><img title="Deploy On Render" src="https://img.shields.io/badge/DEPLOY ON RENDER-h?color=grey&style=for-the-badge&logo=bmw" width="220" height="38.45"/></a></p>
 
 </p>
@@ -112,17 +111,18 @@ HOW TO REACH THE OWNER?
 
 </p>
 
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Contributions
 
 
 Contributions to *BUGATTI* are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 ## THANKS TO [GOD]
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## License
 
-The *BMW-MD* is released under the [MIT License](https://opensource.org/licenses/MIT).
+The *BUGATTI* is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 Enjoy the diverse features of the *BUGATTI*  to enhance your Whatsapp more enjoyable
 ☣Powered by King Marisel 
 .
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
