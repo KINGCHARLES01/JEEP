@@ -9,8 +9,6 @@
     "bmwmd": "pm2 start ibrahim.js --attach",
     "bmwmd": "pm2 start ibrahim.js --attach",
     "c": "tsc"
-{
-  "name
   },
   "keywords": [
     "bot",
