@@ -28,8 +28,8 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<h1 align="center">SESSION HERE👇</h1>
 </a></p>
+<h1 align="center">SESSION HERE👇</h1>
 - <a href="https://sessiongenerator-bf610e36ed37.herokuapp.com/"><img title="GET SESSION OPT 1" src="https://img.shields.io/badge/GET SESSION OPT 1-h?color=pink&style=for-the-badge&logo=Bugatti" width="220" height="38.45"/></a></p>
 
 
