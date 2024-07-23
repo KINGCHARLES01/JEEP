@@ -1,14 +1,16 @@
 {
   "name": "BUGATTI",
-  "version": "KING",
+  "version": "2.0.0",
   "description": "",
-  "main": "marisel.js",
+  "main": "ibrahim.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node ibrahim.js",
     "s": "node ibrahim.js",
-    "zokou": "pm2 start marisel.js --attach",
-    "zokou": "pm2 start marisel.js --attach",
+    "bmwmd": "pm2 start ibrahim.js --attach",
+    "bmwmd": "pm2 start ibrahim.js --attach",
     "c": "tsc"
+{
+  "name
   },
   "keywords": [
     "bot",
